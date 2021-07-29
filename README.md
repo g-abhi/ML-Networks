@@ -1,2 +1,2 @@
 # ML-Networks
-Neural Nets, CNNs, GANs, PyTorch, Numpy, Pandas, Matplotlib
+Neural Nets, PyTorch, Numpy, Pandas, Matplotlib
